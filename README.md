@@ -4,9 +4,8 @@
 ### 👀 **About Me**
 I am a passionate and enthusiastic developer with a keen interest in programming, web development, and solving real-world problems with technology. I love learning new technologies and building projects that showcase my skills.
 
-### 🌱 **Currently Learning**
-- Advanced **Python** Programming  
-- **Java** for backend development  
+### 🌱 **Currently Learning**  
+- **MERN FULL STACK** development  
 - **MySQL** for database management  
 - Frontend development with **HTML**, **CSS**, and **JavaScript**  
 - Version control with **Git** and **GitHub**
