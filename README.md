@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m **Rahama Thulla Khan**
+# 👋 Hi, I’m **Rahamathulla Khan**
 
 ### 👀 **About Me**
 I am a passionate and enthusiastic developer with a keen interest in programming, web development, and solving real-world problems with technology. I love learning new technologies and building projects that showcase my skills.
